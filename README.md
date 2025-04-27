@@ -1,7 +1,6 @@
 # Hello World! 👋
 
-I'm **Daren Dale Aldea** — an *Aspiring Data Analyst* passionate about **Data Science** and **Data Visualization**.  
-I focus on transforming data into actionable insights and have earned badges from IBM, CISCO and currently upskilling for industry-recognized certifications.
+I'm **Daren Dale Aldea** — an *Aspiring Data Analyst* passionate about **Data Science** and **Data Visualization**. I specialize in transforming raw data into actionable insights, and have earned badges from **IBM** and **CISCO**. I am continuously upskilling toward industry-recognized certifications to deliver data-driven solutions that create real value.
 
 ---
 
