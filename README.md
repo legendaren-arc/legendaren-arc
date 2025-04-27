@@ -34,7 +34,7 @@ I focus on transforming data into actionable insights and have earned badges fro
 ---
 
  **Let's connect!**  
-[Email](mailto:aldeadarendale@gmail.com) • [DataCamp Portfolio](https://www.datacamp.com/portfolio/aldeadarendale) • [LinkedIn](https://linkedin.com/in/daren-dale-aldea)
+[Email](mailto:aldeadarendale@gmail.com) • [LinkedIn](https://linkedin.com/in/daren-dale-aldea)
 
 ---
 
