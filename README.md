@@ -6,7 +6,7 @@ I focus on transforming data into actionable insights and have earned badges fro
 ---
 
 ## About Me:
-- 🌟 **Interests**: Passionate about **Transforming Data into Insights**, **Data Analytics**, and **Data Science**.
+- 🌟 **Interests**: Passionate about **Transforming Data into Insights**.
 - 🔬 **Currently Exploring**: Depths of SQL and Pyhton.
 - 📚 **Continuous Learning**: Actively expanding knowledge and applying concepts in real-world scenarios.
 - 🤝 **Looking to Collaborate On**: Data Analytics and Visualization projects!
