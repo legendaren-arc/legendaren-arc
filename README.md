@@ -1,14 +1,33 @@
+**Junior Data Analyst | SQL Certified | Python Enthusiast**
 
-**Daren Dale Aldea** — is a Degree holder in BS Information Technology passionate about **Data Science** and **Machine Learning**. He specialize in transforming raw data into actionable insights, and have earned badges from **IBM** and **CISCO**. He is continuously upskilling toward industry-recognized certifications to deliver data-driven solutions that create real value.
 
+I am a Bachelor of Science in Information Technology graduate and a **Certified SQL Associate** with a strong passion for **data analytics**, **machine learning**, and **data-driven decision-making**. My expertise lies in cleaning, analyzing, and transforming raw data into actionable insights that drive business value.
+
+Having earned certifications from IBM and CISCO, I am committed to continuous learning and currently enhancing my skills in advanced analytics, Python, and data Visualization. My goal is to leverage data to solve complex problems, optimize processes, and contribute to data-centric innovation.
 ---
 
-## About Him:
-- **Interests**: Passionate about **Transforming Data into Insights**.
-- **Currently Exploring**: Depths of SQL and Python.
-- **Continuous Learning**: Actively expanding knowledge and applying concepts in real-world scenarios.
-- **Looking to Collaborate On**: Data Analytics and Visualization projects!
-- **Languages**: *Fluent in English, Waray-waray dialect, Filipino(Tagalog)*.
+## About Me
+
+## 🔧 Technical Skills
+- **Languages:** SQL, Python
+- **Visualization:** Tableau, Power BI
+- **Databases:** MySQL, NoSQL (MongoDB)
+  
+## 🌱 Current Focus
+- Deepening knowledge in **data analytics** concepts
+- Building **SQL projects**
+
+
+## 📫 Let's Connect
+I'm open to collaborations on:
+- Data analysis/visualization projects
+- Open-source contributions
+- Interesting data challenges
+
+## 🗣 Languages
+- English (Professional)
+- Filipino (Native)
+- Waray-Waray (Native)
 
 ---
 
@@ -35,8 +54,11 @@
 
 ---
 
- **Connect through:**  
-[Email](mailto:aldeadarendale@gmail.com) • [LinkedIn](https://linkedin.com/in/daren-dale-aldea)
+ **Reach Me:**  
+📧 [Reach me at:](mailto:aldeadarendale@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/daren-dale-aldea)
+💼 [Portfolio:](https://www.datacamp.com/portfolio/aldeadarendale)
+
 
 ---
 
