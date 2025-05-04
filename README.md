@@ -35,7 +35,7 @@
 
 ---
 
- **Let's connect!**  
+ **Connect through:**  
 [Email](mailto:aldeadarendale@gmail.com) • [LinkedIn](https://linkedin.com/in/daren-dale-aldea)
 
 ---
