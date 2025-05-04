@@ -4,25 +4,25 @@
 I am a Bachelor of Science in Information Technology graduate and a **Certified SQL Associate** with a strong passion for data analytics, machine learning, and data-driven decision-making. My expertise lies in cleaning, analyzing, and transforming raw data into actionable insights that drive business value. Having earned badges from IBM and CISCO, I am committed to continuous learning and currently enhancing my skills in advanced analytics, Python, and data Visualization. My goal is to leverage data to solve complex problems, optimize processes, and contribute to data-centric innovation.
 
 ---
-## About Me
+# About Me
 
-## 🔧 Technical Skills
+# 🔧 Technical Skills
 - **Languages:** SQL, Python
 - **Visualization:** Tableau, Power BI
 - **Databases:** MySQL, NoSQL (MongoDB)
   
-## 🌱 Current Focus
+# 🌱 Current Focus
 - Deepening knowledge in **data analytics** concepts
 - Building **SQL projects**
 
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 I'm open to collaborations on:
 - Data analysis/visualization projects
 - Open-source contributions
 - Interesting data challenges
 
-## 🗣 Languages
+# 🗣 Languages
 - English (Professional)
 - Filipino (Native)
 - Waray-Waray (Native)
