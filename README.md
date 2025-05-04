@@ -1,7 +1,9 @@
 # **Daren Dale Aldea**  
 #### *Junior Data Analyst | SQL Certified | Data Enthusiast*
 
-I am a Bachelor of Science in Information Technology graduate and a **Certified SQL Associate** with a strong passion for data analytics, machine learning, and data-driven decision-making. My expertise lies in cleaning, analyzing, and transforming raw data into actionable insights that drive business value. Having earned badges from IBM and CISCO, I am committed to continuous learning and currently enhancing my skills in advanced analytics, Python, and data visualization.
+I am a Bachelor of Science in Information Technology graduate and a **Certified SQL Associate** with a strong passion for data analytics, machine learning, and data-driven decision-making. My expertise lies in cleaning, analyzing, and transforming raw data into actionable insights that drive business value. 
+
+Having earned badges from IBM and CISCO, I am committed to continuous learning and currently enhancing my skills in advanced analytics, Python, and data visualization.
 
 ---
 
