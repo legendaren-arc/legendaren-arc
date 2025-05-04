@@ -1,9 +1,9 @@
 **Junior Data Analyst | SQL Certified | Python Enthusiast**
 
 
-I am a Bachelor of Science in Information Technology graduate and a **Certified SQL Associate** with a strong passion for **data analytics**, **machine learning**, and **data-driven decision-making**. My expertise lies in cleaning, analyzing, and transforming raw data into actionable insights that drive business value. Having earned badges from IBM and CISCO, I am committed to continuous learning and currently enhancing my skills in advanced analytics, Python, and data Visualization. My goal is to leverage data to solve complex problems, optimize processes, and contribute to data-centric innovation.
----
+I am a Bachelor of Science in Information Technology graduate and a **Certified SQL Associate** with a strong passion for data analytics, machine learning, and data-driven decision-making. My expertise lies in cleaning, analyzing, and transforming raw data into actionable insights that drive business value. Having earned badges from IBM and CISCO, I am committed to continuous learning and currently enhancing my skills in advanced analytics, Python, and data Visualization. My goal is to leverage data to solve complex problems, optimize processes, and contribute to data-centric innovation.
 
+---
 ## About Me
 
 ## 🔧 Technical Skills
