@@ -53,9 +53,9 @@ I'm open to collaborations on:
 ---
 
  **Reach Me:**  
-- 📧 Reach me at (mailto:aldeadarendale@gmail.com)
-- 🔗 LinkedIn Profile (https://linkedin.com/in/daren-dale-aldea)
-- 💼 You may view my works here (https://www.datacamp.com/portfolio/aldeadarendale)
+- 📧 Reach me at: mailto:aldeadarendale@gmail.com
+- 🔗 LinkedIn Profile: https://linkedin.com/in/daren-dale-aldea
+- 💼 You may view my works here: https://www.datacamp.com/portfolio/aldeadarendale
 
 
 ---
