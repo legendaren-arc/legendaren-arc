@@ -1,19 +1,18 @@
-# Hello World! 👋
 
-I'm **Daren Dale Aldea** — an *Aspiring Data Analyst* passionate about **Data Science** and **Data Visualization**. I specialize in transforming raw data into actionable insights, and have earned badges from **IBM** and **CISCO**. I am continuously upskilling toward industry-recognized certifications to deliver data-driven solutions that create real value.
-
----
-
-## About Me:
-- 🌟 **Interests**: Passionate about **Transforming Data into Insights**.
-- 🔬 **Currently Exploring**: Depths of SQL and Python.
-- 📚 **Continuous Learning**: Actively expanding knowledge and applying concepts in real-world scenarios.
-- 🤝 **Looking to Collaborate On**: Data Analytics and Visualization projects!
-- 🌎 **Languages**: *Fluent in English, Waray-waray dialect, Filipino(Tagalog)*.
+**Daren Dale Aldea** — is a Degree holder in BS Information Technology passionate about **Data Science** and **Machine Learning**. He specialize in transforming raw data into actionable insights, and have earned badges from **IBM** and **CISCO**. He is continuously upskilling toward industry-recognized certifications to deliver data-driven solutions that create real value.
 
 ---
 
-##  Languages and Tools I Use:
+## About Him:
+- **Interests**: Passionate about **Transforming Data into Insights**.
+- **Currently Exploring**: Depths of SQL and Python.
+- **Continuous Learning**: Actively expanding knowledge and applying concepts in real-world scenarios.
+- **Looking to Collaborate On**: Data Analytics and Visualization projects!
+- **Languages**: *Fluent in English, Waray-waray dialect, Filipino(Tagalog)*.
+
+---
+
+##  Languages and Tools:
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
