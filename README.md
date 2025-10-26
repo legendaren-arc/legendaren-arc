@@ -1,7 +1,7 @@
 # **Daren Dale Aldea**  
 #### *Junior Data Analyst | SQL Certified | Data Enthusiast*
 
-I am a Bachelor of Science in Information Technology graduate and a **Certified SQL Associate** with a strong passion for data analytics, machine learning, and data-driven decision-making. My expertise lies in cleaning, analyzing, and transforming raw data into actionable insights that drive business value. 
+I am a Bachelor of Science in Information Technology graduate and a **Certified Data Analyst and SQL Associate** by *DataCamp* with a strong passion for data analytics, visualization, and data-driven decision-making. My expertise lies in cleaning, analyzing, and transforming raw data into actionable insights that drive business value. 
 
 Having earned badges from IBM and CISCO, I am committed to continuous learning and currently enhancing my skills in advanced analytics, Python, and data visualization.
 
@@ -12,7 +12,7 @@ Having earned badges from IBM and CISCO, I am committed to continuous learning a
 |----------------|---------------------------------------------|
 | **Languages**  | SQL, Python                                 |
 | **Visualization** | Tableau, Power BI                        |
-| **Databases**  | MySQL, NoSQL (MongoDB)                      |
+| **Databases**  | MySQL, NoSQL (MongoDB), PostgreSQL          |
 | **Other Tools**| Excel, GitHub, Google Colab, VS Code       |
 
 ## **Current Focus**
@@ -42,7 +42,7 @@ Having earned badges from IBM and CISCO, I am committed to continuous learning a
 ## **Let's Connect**
 - 💼 [LinkedIn](https://linkedin.com/in/daren-dale-aldea)
 - 📧 [Email](mailto:aldeadarendale@gmail.com)
-- 📂 [DataCamp Portfolio](https://www.datacamp.com/portfolio/aldeadarendale)
+- 📂 [Website Portfolio]([https://www.datacamp.com/portfolio/aldeadarendale](https://aldeadaren-websiteportfolio.framer.website/))
 
 ## **Languages**
 - English (Professional)
