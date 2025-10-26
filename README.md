@@ -42,7 +42,7 @@ Having earned badges from IBM and CISCO, I am committed to continuous learning a
 ## **Let's Connect**
 - 💼 [LinkedIn](https://linkedin.com/in/daren-dale-aldea)
 - 📧 [Email](mailto:aldeadarendale@gmail.com)
-- 📂 [Website Portfolio]([https://www.datacamp.com/portfolio/aldeadarendale](https://aldeadaren-websiteportfolio.framer.website/))
+- 📂 [Website Portfolio](https://aldeadaren-websiteportfolio.framer.website/)
 
 ## **Languages**
 - English (Professional)
