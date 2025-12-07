@@ -20,9 +20,6 @@ Having earned badges from IBM and CISCO, I am committed to continuous learning a
 - Building **SQL projects** and data pipelines
 - Enhancing **Python** skills for data analysis
 
-## **GitHub Stats**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=legendaren-arc&show_icons=true&theme=tokyonight&hide_border=true)
-
 
 ## **Core Technologies**
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
